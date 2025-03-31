@@ -7,7 +7,7 @@ I'm a student at **42 Heilbronn**, exploring programming and problem-solving.
 - 🌱 Learning **C, algorithms, and systems programming**  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
 
 <!--
 **nabilac27/nabilac27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
