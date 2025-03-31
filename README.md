@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nabila! 👋  
+I'm a student at **42 Heilbronn**, exploring programming and problem-solving.  
+
+## 📖 About Me  
+- 🎓 Studying at **42 Heilbronn**  
+- 💻 Interested in software development  
+- 🌱 Learning **C, algorithms, and systems programming**  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com)  
 
 <!--
 **nabilac27/nabilac27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
