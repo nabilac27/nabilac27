@@ -5,12 +5,12 @@ Currently, I’m working through 42's core curriculum, where I’m developing my
 
 My goal is to complete the curriculum and build a strong foundation in technology, equipping myself with the skills needed to succeed in the tech industry.
 
-## 📖 About Me  
+##  📖  About Me  
 - 🎓 Studying at [42](https://www.42.fr) 
 - 💻 Interested in software development  
 - 🌱 Learning **C, algorithms, and systems programming**  
 
-## 🖥️ 42 Core Curriculum Projects
+##  🖥️  42 Core Curriculum Projects
 
 | Project Name       | Description                                                | Technologies | Submitted Date | Score     |
 |--------------------|------------------------------------------------------------|--------------|----------------|-----------|
@@ -23,7 +23,7 @@ My goal is to complete the curriculum and build a strong foundation in technolog
 | [libft](https://github.com/nabilac27/libft)           | A custom C library that replicates standard C functions.  | C            | 20/10/2024     | 100/125   |
 
 
-## 🌐 Web Development Projects
+##  🌐  Web Development Projects
 
 | Project Name | Description | Technologies | Finished Date |
 |--------------|-------------|--------------|---------------|
