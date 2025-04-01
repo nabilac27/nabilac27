@@ -36,6 +36,13 @@ My goal is to complete the curriculum and build a strong foundation in technolog
 [![CodinGame](https://img.shields.io/badge/CodinGame-yellow?logo=codingame)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![HackerRank](https://img.shields.io/badge/HackerRank-black?logo=hackerrank&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![CodinGame](https://img.shields.io/badge/CodinGame-black?logo=codingame&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
 <!--
 **nabilac27/nabilac27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
