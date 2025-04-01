@@ -24,7 +24,7 @@ I'm a student at **42 Heilbronn**, exploring programming and problem-solving.
 |--------------|-------------|--------------|
 | [Web Development Discovery Piscine](https://github.com/nabilac27/42berlin_web_discovery_piscine) | A week-long immersion into web development, exploring foundational web technologies such as HTML, CSS, JavaScript, and basic shell commands. | HTML, CSS, JavaScript, Shell |
 
-## 📫 Connect with Me  
+## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![HackerRank](https://img.shields.io/badge/HackerRank-green?logo=hackerrank)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
