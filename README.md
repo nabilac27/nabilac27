@@ -8,15 +8,15 @@ I'm a student at **42 Heilbronn**, exploring programming and problem-solving.
 
 ## 🏗️ 42 Core Curriculum Projects
 
-| Project Name       | Description                                                | Technologies | Submitted Date | Score |
-|--------------------|------------------------------------------------------------|--------------|----------------|-------|
-| [minishell](https://github.com/nabilac27/minishell)   | A simple shell implementation for Unix-like systems.      | C, Shell     |     |    |
-| [push_swap](https://github.com/nabilac27/push_swap)   | Sorting algorithm project using a limited set of operations. | C            | 2025-03-13     | 100/125  |
-| [so_long](https://github.com/nabilac27/so_long)       | A simple 2D game using the MLX library.                    | C            | 2025-02-06     | 100/125    |
-| [pipex](https://github.com/nabilac27/pipex)           | Recreating the behavior of Unix pipelines.                 | C            | 2025-01-19     | 100/125    |
-| [get_next_line](https://github.com/nabilac27/get_next_line) | Function to read a line from a file descriptor.           | C            | 2024-12-26     | 125/125   |
-| [ft_printf](https://github.com/nabilac27/ft_printf)   | Custom implementation of the printf function.             | C            | 2024-11-15     | 100/125   |
-| [libft](https://github.com/nabilac27/libft)           | A custom C library that replicates standard C functions.  | C            | 2024-10-20     | 100/125   |
+| Project Name       | Description                                                | Technologies | Submitted Date | Score     |
+|--------------------|------------------------------------------------------------|--------------|----------------|-----------|
+| [minishell](https://github.com/nabilac27/minishell)   | A simple shell implementation for Unix-like systems.      | C, Shell     | --/--/----      | --        |
+| [push_swap](https://github.com/nabilac27/push_swap)   | Sorting algorithm project using a limited set of operations. | C            | 13/03/2025     | 100/125   |
+| [so_long](https://github.com/nabilac27/so_long)       | A simple 2D game using the MLX library.                    | C            | 06/02/2025     | 100/125   |
+| [pipex](https://github.com/nabilac27/pipex)           | Recreating the behavior of Unix pipelines.                 | C            | 19/01/2025     | 100/125   |
+| [get_next_line](https://github.com/nabilac27/get_next_line) | Function to read a line from a file descriptor.           | C            | 26/12/2024     | 125/125   |
+| [ft_printf](https://github.com/nabilac27/ft_printf)   | Custom implementation of the printf function.             | C            | 15/11/2024     | 100/125   |
+| [libft](https://github.com/nabilac27/libft)           | A custom C library that replicates standard C functions.  | C            | 20/10/2024     | 100/125   |
 
 
 ## 🌐 Web Development Projects
