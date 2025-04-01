@@ -13,6 +13,16 @@ I'm a student at **42 Heilbronn**, exploring programming and problem-solving.
 [![CodinGame](https://img.shields.io/badge/CodinGame-yellow?logo=codingame)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+## 🏗️ 42 Core Curriculum Projects
+
+| Project Name | Description | Technologies |
+|--------------|-------------|--------------|
+| [minishell](https://github.com/nabilac27/minishell) | A simple shell implementation for Unix-like systems. | C, Shell |
+| [libft_v2](https://github.com/nabilac27/libft_v2) | An extended version of Libft with additional utilities. | C |
+| [ft_printf](https://github.com/nabilac27/ft_printf) | Custom implementation of the `printf` function. | C |
+| [push_swap](https://github.com/nabilac27/push_swap) | Sorting algorithm project using a limited set of operations. | C |
+| [get_next_line](https://github.com/nabilac27/get_next_line) | Function to read a line from a file descriptor. | C |
+
 <!--
 **nabilac27/nabilac27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
