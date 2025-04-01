@@ -1,7 +1,7 @@
 # Hi, I'm Nabila! 👋  
-👩‍💻 I'm a beginner student at **42**, excited to explore programming and problem-solving. 
+🚀 I'm a beginner student at **42**, excited to explore programming and problem-solving. 
 
-📚 Currently, I’m working through 42's core curriculum, where I’m developing my coding skills and refining my problem-solving abilities. 
+🚀 Currently, I’m working through 42's core curriculum, where I’m developing my coding skills and refining my problem-solving abilities. 
 
 🚀 My goal is to complete the curriculum and build a strong foundation in technology, equipping myself with the skills needed to succeed in the tech industry.
 
