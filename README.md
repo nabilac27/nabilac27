@@ -1,8 +1,8 @@
 # Hi, I'm Nabila! 👋  
-I'm a student at **42 Heilbronn**, exploring programming and problem-solving.  
+I'm a student at **42**, exploring programming and problem-solving.  
 
 ## 📖 About Me  
-- 🎓 Studying at **42 Heilbronn**  
+- 🎓 Studying at **42**  
 - 💻 Interested in software development  
 - 🌱 Learning **C, algorithms, and systems programming**  
 
