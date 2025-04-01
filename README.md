@@ -25,6 +25,12 @@ I'm a student at **42 Heilbronn**, exploring programming and problem-solving.
 | [ft_printf](https://github.com/nabilac27/ft_printf) | Custom implementation of the `printf` function. | C |
 | [libft](https://github.com/nabilac27/libft) | A custom C library that replicates standard C functions.  | C |
 
+## 🌐 Web Development Projects
+
+| Project Name | Description | Technologies |
+|--------------|-------------|--------------|
+| [Web Development Discovery Piscine](https://github.com/nabilac27/42berlin_web_discovery_piscine) | A week-long immersion into web development, exploring foundational web technologies such as HTML, CSS, JavaScript, and basic shell commands. | HTML, CSS, JavaScript, Shell |
+
 <!--
 **nabilac27/nabilac27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
