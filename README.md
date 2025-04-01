@@ -32,10 +32,10 @@ My goal is to complete the curriculum and build a strong foundation in technolog
 ## 📧 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?logo=hackerrank&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![CodinGame](https://img.shields.io/badge/CodinGame-black?logo=codingame&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-black?logo=tryhackme&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![picoCTF](https://img.shields.io/badge/picoCTF-black?logo=picoctf&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
