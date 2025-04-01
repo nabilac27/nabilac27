@@ -30,11 +30,6 @@ My goal is to complete the curriculum and build a strong foundation in technolog
 | [Web Development Discovery Piscine](https://github.com/nabilac27/42berlin_web_discovery_piscine) | A week-long immersion into web development, exploring foundational web technologies such as HTML, CSS, JavaScript, and basic shell commands. | HTML, CSS, JavaScript, Shell | 14/02/2025 |
 
 ## 📧 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?logo=hackerrank)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![CodinGame](https://img.shields.io/badge/CodinGame-yellow?logo=codingame)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
