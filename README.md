@@ -2,7 +2,7 @@
 I'm a student at **42**, exploring programming and problem-solving.  
 
 ## 📖 About Me  
-- 🎓 Studying at **42**  
+- 🎓 Studying at [42](https://www.42.fr) 
 - 💻 Interested in software development  
 - 🌱 Learning **C, algorithms, and systems programming**  
 
