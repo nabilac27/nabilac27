@@ -10,7 +10,7 @@ I'm a student at **42 Heilbronn**, exploring programming and problem-solving.
 
 | Project Name       | Description                                                | Technologies | Submitted Date | Score     |
 |--------------------|------------------------------------------------------------|--------------|----------------|-----------|
-| [minishell](https://github.com/nabilac27/minishell)   | A simple shell implementation for Unix-like systems.      | C, Shell     | --/--/----      | ---/125        |
+| [minishell](https://github.com/nabilac27/minishell)   | A simple shell implementation for Unix-like systems.      | C, Shell     |       |         |
 | [push_swap](https://github.com/nabilac27/push_swap)   | Sorting algorithm project using a limited set of operations. | C            | 13/03/2025     | 100/125   |
 | [so_long](https://github.com/nabilac27/so_long)       | A simple 2D game using the MLX library.                    | C            | 06/02/2025     | 100/125   |
 | [pipex](https://github.com/nabilac27/pipex)           | Recreating the behavior of Unix pipelines.                 | C            | 19/01/2025     | 100/125   |
