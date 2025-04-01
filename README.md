@@ -21,9 +21,9 @@ I'm a student at **42 Heilbronn**, exploring programming and problem-solving.
 
 ## 🌐 Web Development Projects
 
-| Project Name | Description | Technologies |
-|--------------|-------------|--------------|
-| [Web Development Discovery Piscine](https://github.com/nabilac27/42berlin_web_discovery_piscine) | A week-long immersion into web development, exploring foundational web technologies such as HTML, CSS, JavaScript, and basic shell commands. | HTML, CSS, JavaScript, Shell |
+| Project Name | Description | Technologies | Finished Date |
+|--------------|-------------|--------------|---------------|
+| [Web Development Discovery Piscine](https://github.com/nabilac27/42berlin_web_discovery_piscine) | A week-long immersion into web development, exploring foundational web technologies such as HTML, CSS, JavaScript, and basic shell commands. | HTML, CSS, JavaScript, Shell | 14/02/2025 |
 
 ## 📧 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
