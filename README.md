@@ -12,7 +12,7 @@
 
 ##  🖥️  42 Core Curriculum Projects
 
-| Project       | Description                                                | Technologies | Submitted Date | Score     |
+| Project       | Description                                                | Technologies | Submitted  | Score     |
 |--------------------|------------------------------------------------------------|--------------|----------------|-----------|
 | [minishell](https://github.com/nabilac27/minishell)   | A simple shell implementation for Unix-like systems.      | C, Shell     |       |         |
 | [push_swap](https://github.com/nabilac27/push_swap)   | Sorting algorithm project using a limited set of operations. | C            | 13/03/2025     | 100/125   |
@@ -25,7 +25,7 @@
 
 ##  🌐  Web Development Projects
 
-| Project | Description | Technologies | Finished Date |
+| Project | Description | Technologies | Finished |
 |--------------|-------------|--------------|---------------|
 | [Web Development Discovery Piscine](https://github.com/nabilac27/42berlin_web_discovery_piscine) | A week-long immersion into web development, exploring foundational web technologies such as HTML, CSS, JavaScript, and basic shell commands. | HTML, CSS, JavaScript, Shell | 14/02/2025 |
 
