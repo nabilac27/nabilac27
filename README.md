@@ -23,7 +23,7 @@ I'm a student at **42 Heilbronn**, exploring programming and problem-solving.
 | [pipex](https://github.com/nabilac27/pipex) | Recreating the behavior of Unix pipelines. | C |
 | [get_next_line](https://github.com/nabilac27/get_next_line) | Function to read a line from a file descriptor. | C |
 | [ft_printf](https://github.com/nabilac27/ft_printf) | Custom implementation of the `printf` function. | C |
-| [libft](https://github.com/nabilac27/libft) | An extended version of Libft with additional utilities. | C |
+| [libft](https://github.com/nabilac27/libft) | A custom C library that replicates standard C functions.  | C |
 
 <!--
 **nabilac27/nabilac27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
