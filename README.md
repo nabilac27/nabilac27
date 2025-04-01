@@ -10,7 +10,7 @@ My goal is to complete the curriculum and build a strong foundation in technolog
 - 💻 Interested in software development  
 - 🌱 Learning **C, algorithms, and systems programming**  
 
-## 🏗️ 42 Core Curriculum Projects
+## 🖥️ 42 Core Curriculum Projects
 
 | Project Name       | Description                                                | Technologies | Submitted Date | Score     |
 |--------------------|------------------------------------------------------------|--------------|----------------|-----------|
