@@ -23,7 +23,7 @@ I'm a beginner student at **42**, eager to learn programming and problem-solving
 
 | Project | Description | Technologies | Finished |
 |--------------|-------------|--------------|---------------|
-| [Web Development Discovery Piscine](https://github.com/nabilac27/42berlin_web_discovery_piscine) | A week-long immersion into web development, exploring foundational web technologies such as HTML, CSS, JavaScript, and basic shell commands. | HTML, CSS, JavaScript, Shell | 14/02/2025 |
+| [Web Development Discovery Piscine](https://github.com/nabilac27/42berlin_web_discovery_piscine) | A week-long immersion into web development, exploring foundational web technologies. | HTML, CSS, JavaScript, Shell | 14/02/2025 |
 
 ## 📧 Get in Touch
 
