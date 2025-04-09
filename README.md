@@ -10,9 +10,9 @@ I'm a beginner student at **42 Heilbronn**, eager to learn programming and probl
 
 | Project       | Description                                                | Technologies | Score     | Submitted  |
 |--------------------|------------------------------------------------------------|--------------|-----------|------------|
-| [cub3d](https://github.com/nabilac27/cub3d)           | Create a dynamic view inside a 3D maze. Implementing raycasting in the style of the famous Wolfenstein 3D game | C  |  |  |
-| [philosopher] | 42 project simulating the "Dining Philosophers Problem" using threads and mutexes. | C |  |   |
-| [minishell]   | A simple shell implementation for Unix-like systems.      | C    |           |            |
+| cub3d       | Create a dynamic view inside a 3D maze. Implementing raycasting in the style of the famous Wolfenstein 3D game | C  |  |  |
+| philosopher | 42 project simulating the "Dining Philosophers Problem" using threads and mutexes. | C |  |   |
+| minishell   | A simple shell implementation for Unix-like systems.      | C    |           |            |
 | [push_swap](https://github.com/nabilac27/push_swap)   | Sorting algorithm project using a limited set of operations. | C            | 100/125   | 13/03/2025 |
 | [so_long](https://github.com/nabilac27/so_long)       | A simple 2D game using the MLX library.                    | C            | 100/125   | 06/02/2025 |
 | [pipex](https://github.com/nabilac27/pipex)           | Recreating the behavior of Unix pipelines.                 | C            | 100/125   | 19/01/2025 |
