@@ -28,6 +28,7 @@ I'm a beginner student at **42 Heilbronn**, eager to learn programming and probl
 ## 📧 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=black&style=for-the-badge)](https://www.linkedin.com/in/nabila-c-9b2a0a1b5/)
+[![Discord](https://img.shields.io/badge/Discord-black?logo=discord&logoColor=white&color=black&style=for-the-badge)](https://discord.com)
 [![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?logo=hackerrank&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
