@@ -10,7 +10,7 @@ I'm a beginner student at **42 Heilbronn**, eager to learn programming and probl
 
 | Project       | Description                                                | Technologies | Score     | Submitted  |
 |--------------------|------------------------------------------------------------|--------------|-----------|------------|
-| cub3d       | Create a dynamic view inside a 3D maze. Implementing raycasting in the style of the famous Wolfenstein 3D game | C  |  |  |
+| cub3d       | Create a dynamic view inside a 3D maze. | C  |  |  |
 | philosopher | 42 project simulating the "Dining Philosophers Problem" using threads and mutexes. | C |  |   |
 | minishell   | A simple shell implementation for Unix-like systems.      | C    |           |            |
 | [push_swap](https://github.com/nabilac27/push_swap)   | Sorting algorithm project using a limited set of operations. | C            | 100/125   | 13/03/2025 |
