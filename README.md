@@ -30,7 +30,7 @@ I'm a beginner student at **42 Heilbronn**, eager to learn programming and probl
 ## 📧 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=black&style=for-the-badge)](https://www.linkedin.com/in/nabila-c-9b2a0a1b5/)
-[![Discord](https://img.shields.io/badge/Discord-black?logo=discord&logoColor=white&color=black&style=for-the-badge](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Discord](https://img.shields.io/badge/Discord-black?logo=discord&logoColor=white&color=black&style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--
 **nabilac27/nabilac27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
