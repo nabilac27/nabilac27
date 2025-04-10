@@ -11,7 +11,7 @@ I'm a beginner student at **42 Heilbronn**, eager to learn programming and probl
 | Project       | Description                                                | Technologies | Score     | Submitted  |
 |--------------------|------------------------------------------------------------|--------------|-----------|------------|
 | cub3d       | Create a dynamic view inside a 3D maze using the MLX Library. | `C`  |  |  |
-| [philosopher](https://github.com/nabilac27/42-philosopher)  | "Dining Philosophers Problem" simulation using threads and mutexes. | `C` |  |   |
+| [philosopher](https://github.com/nabilac27/42-philosopher)  | Dining Philosophers Problem's simulation using threads and mutexes. | `C` |  |   |
 | [minishell](https://github.com/nabilac27/42-minishell)   | A simple shell implementation for Unix-like systems.      | `C`    |           |            |
 | [push_swap](https://github.com/nabilac27/42-push_swap)   | Sorting algorithm project using a limited set of operations. | `C`            | 100/125   | 13/03/2025 |
 | [so_long](https://github.com/nabilac27/42-so_long)       | A simple 2D game using the MLX library.                    | `C`            | 100/125   | 06/02/2025 |
