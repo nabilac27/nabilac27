@@ -1,15 +1,23 @@
 # Hi, I'm Nabila! 👋  
 I'm a beginner student at **42 Heilbronn**, eager to learn programming and problem-solving. I'm working through the core curriculum to build a strong foundation in tech and gain the skills I need to succeed in the industry.
 
+
 ##  📖  About Me  
 - 🎓 Studying at [42](https://www.42.fr) 
 - 💻 Interested in software development  
 - 🌱 Learning **C, algorithms, and systems programming**  
 
+
 ##  🖥️  42 Core Curriculum Projects
 
 | Project       | Description                                                | Technologies | Score     | Submitted  |
 |--------------------|------------------------------------------------------------|--------------|-----------|------------|
+| ft_transcendence     | Full-stack web app with real-time features (final project). | `NestJS`, `React`, `PostgreSQL`, `Docker` | |       |
+| Inception            | Docker-based system administration and service setup.     | `Docker`, `DevOps` |     |            |
+| ft_irc               | Implementation of an IRC server handling multiple clients. | `C++`, `Sockets` |      |            |
+| CPP 05–09            | Advanced C++: templates, exceptions, STL, multithreading.   | `C++`     |           |            |
+| CPP 00–04            | C++ basics: OOP, memory, references, and operator overloading. | `C++`     |           |            |
+| NetPractice          | IP address routing and subnetting exercises.              | `Networking` |           |            |
 | cub3d       | Create a dynamic view inside a 3D maze using the MLX Library. | `C`  |  |  |
 | [philosopher](https://github.com/nabilac27/42-philosopher)  | Dining Philosophers Problem's simulation using threads and mutexes. | `C` |  |   |
 | [minishell](https://github.com/nabilac27/42-minishell)   | A simple shell implementation for Unix-like systems.      | `C`    |           |            |
@@ -26,6 +34,7 @@ I'm a beginner student at **42 Heilbronn**, eager to learn programming and probl
 | Project | Description | Technologies | Finished |
 |--------------|-------------|--------------|---------------|
 | [Web Development Discovery Piscine](https://github.com/nabilac27/42berlin_web_discovery_piscine) | A week-long immersion into web development, exploring foundational web technologies. | `HTML`, `CSS`, `JavaScript` | 14/02/2025 |
+
 
 ## 📧 Get in Touch
 
