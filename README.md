@@ -1,5 +1,5 @@
 # Hi, I'm Nabila! 👋  
-I'm a beginner student at **42 Heilbronn**, eager to learn programming and problem-solving. I'm working through the core curriculum to build a strong foundation in tech and gain the skills I need to succeed in the industry.
+I'm a beginner student at **42**, eager to learn programming and problem-solving. I'm working through the core curriculum to build a strong foundation in tech and gain the skills I need to succeed in the industry.
 
 
 ##  📖  About Me  
