@@ -5,7 +5,8 @@ I'm a beginner student at **42**, eager to learn programming and problem-solving
 ##  📖  About Me  
 - 🎓 Studying at [42](https://www.42.fr) 
 - 💻 Interested in software development  
-- 🌱 Learning **C, algorithms, and systems programming**  
+- 🌱 Learning **C, algorithms, and systems programming**
+- 🛡️ Exploring Capture The Flag (CTF) challenges to develop hacking skills  
 
 
 ##  🖥️  42 Core Curriculum Projects
