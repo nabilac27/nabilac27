@@ -2,10 +2,10 @@
 I'm a beginner student at **42**, eager to learn programming and problem-solving. I'm working through the core curriculum to build a strong foundation in tech and gain the skills I need to succeed in the industry.
 
 
-##  📖  About Me  
+##  🧠  About Me  
 - 🎓 Studying at [42](https://www.42.fr) 
-- 💻 Interested in **software development** and **cybersecurity** 
-- 🌱 Learning **C**, **algorithms**, **systems programming**, and **networking**
+- 🖥️ Interested in **software development** and **cybersecurity** 
+- 🔧 Learning **C**, **algorithms**, **systems programming**, and **networking**
 - 🛡️ Exploring **Capture The Flag (CTF)** challenges to develop hacking skills  
 
 
