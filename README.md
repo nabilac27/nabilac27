@@ -12,13 +12,6 @@ I'm a beginner student at **42**, eager to learn programming and problem-solving
 
 | Project       | Description                                                | Technologies | Score     | Submitted  |
 |--------------------|------------------------------------------------------------|--------------|-----------|------------|
-| ft_transcendence     | Full-stack web app with real-time features (final project). | `NestJS`, `React`, `PostgreSQL`, `Docker` | |       |
-| Inception            | Docker-based system administration and service setup.     | `Docker`, `DevOps` |     |            |
-| ft_irc               | Implementation of an IRC server handling multiple clients. | `C++`, `Sockets` |      |            |
-| CPP 05–09            | Advanced C++: templates, exceptions, STL, multithreading.   | `C++`     |           |            |
-| CPP 00–04            | C++ basics: OOP, memory, references, and operator overloading. | `C++`     |           |            |
-| NetPractice          | IP address routing and subnetting exercises.              | `Networking` |           |            |
-| cub3d       | Create a dynamic view inside a 3D maze using the MLX Library. | `C`  |  |  |
 | [philosopher](https://github.com/nabilac27/42-philosopher)  | Dining Philosophers Problem's simulation using threads and mutexes. | `C` |  |   |
 | [minishell](https://github.com/nabilac27/42-minishell)   | Simplified version of a Unix command-line shell, handling user input, executing commands, and managing environment variables      | `C`    |           |            |
 | [push_swap](https://github.com/nabilac27/42-push_swap)   | Sorting algorithm project using a limited set of operations. | `C`            | 100/125   | 13/03/2025 |
