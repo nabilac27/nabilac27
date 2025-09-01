@@ -18,7 +18,7 @@ I'm a beginner student at **42**, eager to learn programming and problem-solving
   
     Covers **JavaScript, Node, React, PostgreSQL, Web3, and DApps**  
 
-- 🎓 **Computer Science Study**
+- 🎓 **Computer Science Study** (CS at Goethe Uni Frankfurt)
 
     Current Courses: *Linear Algebra und Diskrete Strukturen, Modellierung, Einführung in die Programmierung*  
 
