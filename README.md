@@ -30,7 +30,6 @@ I'm a beginner student at **42**, eager to learn programming and problem-solving
 --
 
 
-TO-Do:
 ## 🖥️ 42 Core Curriculum Projects
 
 | Project | Description | Key Concepts | Technologies |
