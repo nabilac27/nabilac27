@@ -5,7 +5,7 @@ I'm a beginner student at **42**, eager to learn programming and problem-solving
 
 ##  🧠  About Me  
 - 🎓 Studying at [42](https://www.42.fr) and [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en)
-- 🖥️ Interested in **software development** and **cybersecurity** 
+- 🖥️ Interested in **software development**
 - 🔧 Learning **C**, **algorithms**, **systems programming**, and **networking**
 
 ## 🚀 Currently Working On
