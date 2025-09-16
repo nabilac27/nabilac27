@@ -10,14 +10,6 @@ I'm a beginner student at **42**, eager to learn programming and problem-solving
 
 ## 🚀 Currently Working On
 
-- 🖥️ [**ft_transcendence**](https://github.com/nabilac27/42-ft_transcendence) **(42 Project)**
-
-    Building a **Pong-inspired full-stack web application** with real-time features (chat, authentication, multiplayer)  
-
-- 🌐 Web Development ([**Udemy course**](https://github.com/nabilac27/web-development-course))
-  
-    Covers **JavaScript, Node, React, PostgreSQL, Web3, and DApps**  
-
 - 🎓 **Computer Science Study** (CS at Goethe Uni Frankfurt)
 
     Current Courses: *Linear Algebra und Diskrete Strukturen, Modellierung, Einführung in die Programmierung*  
