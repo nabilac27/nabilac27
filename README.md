@@ -14,9 +14,9 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 
   Current Courses: *Lineare Algebra und Diskrete Strukturen, Modellierung, Einführung in die Programmierung*  
 
-- 🎓 **Core Curriculum at 42y**
+- 🎓 **Core Curriculum at 42**
 
-  Current Projects: *Circle 04*  
+  Current Projects: *CPP00-04 (C++), NetPractice (Networking), Cub3D (3D Raycasting Game using C)*  
 
 - 💼 **Internship / Werkstudent Search**
   
