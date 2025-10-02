@@ -16,7 +16,7 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 
 - 🎓 **Core Curriculum at 42**
 
-  Current Projects: CPP00-04 (C++), NetPractice (Networking), Cub3D (3D Raycasting Game using C) 
+  Current Projects: NetPractice (Networking), CPP00-04 (C++), Cub3D (3D Raycasting Game using C) 
 
 - 💼 **Internship / Werkstudent Search**
   
