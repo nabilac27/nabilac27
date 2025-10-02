@@ -19,7 +19,6 @@ I'm a beginner student at **42**, eager to learn programming and problem-solving
   
     Actively looking for opportunities in **Software Development / IT**      |     📄 [View my Portfolio & Resume](https://your-portfolio-link.com)
 
---
 
 
 ## 🖥️ 42 Core Curriculum Projects
