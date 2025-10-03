@@ -18,7 +18,7 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 
   Current Projects: NetPractice (Networking), CPP00-04 (C++), Cub3D (3D Raycasting Game using C) 
 
-- 💼 **Internship / Werkstudent Search**
+- 💼 **Internship / Werkstudent** Search
   
   Actively looking for opportunities in **Software Development**
 
