@@ -20,7 +20,7 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 
 - 💼 **Internship / Werkstudent Search**
   
-  Actively looking for opportunities in **Software Development / IT**      |     📄 [View my Portfolio & Resume](https://your-portfolio-link.com)
+  Actively looking for opportunities in **Software Development**      |     📄 [View my Portfolio & Resume](https://your-portfolio-link.com)
 
 
 
