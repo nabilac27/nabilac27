@@ -10,7 +10,7 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 
 ## 🚀 Currently Working On
 
-- 🎓 **Computer Science Study** (CS at Goethe Uni Frankfurt)
+- 🎓 **Computer Science** at Goethe Uni Frankfurt
 
   Current Courses: *Lineare Algebra und Diskrete Strukturen, Modellierung, Einführung in die Programmierung*  
 
