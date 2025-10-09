@@ -43,6 +43,6 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 
 | Project | Description | Key Concepts | Preview | Technologies |
 |---------|-------------|--------------|---------|--------------|
-| [42 Web Discovery Piscine](https://github.com/nabilac27/42-web_discovery_piscine) | Web development discovery program showcasing small projects and interactive web pages | HTML structure, CSS styling, JavaScript dynamic effects, Event & Cookies Handling | [To-Do List](https://nabilac27.github.io/42-web-to_do_list/), [Profile Card](https://nabilac27.github.io/42-web-profile_card/), [Parallax](https://nabilac27.github.io/42-web-parallax/) | `HTML`, `CSS`, `JavaScript`, `DOM`, `Cookies` |
+| [42 Web Discovery Piscine](https://github.com/nabilac27/42-web_discovery_piscine) | Web development discovery program showcasing small projects and interactive web pages | HTML, CSS, JavaScript, Event & Cookies Handling | [To-Do List](https://nabilac27.github.io/42-web-to_do_list/), [Profile Card](https://nabilac27.github.io/42-web-profile_card/), [Parallax](https://nabilac27.github.io/42-web-parallax/) | `HTML`, `CSS`, `JavaScript`, `DOM`, `Cookies` |
 
 
