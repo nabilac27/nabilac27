@@ -41,6 +41,6 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 
 | Project | Description | Key Concepts | Technologies |
 |---------|-------------|--------------|--------------|
-| [42 Web Discovery Piscine](https://github.com/nabilac27/42-web_discovery_piscine) | Web development discovery program showcasing small projects and interactive web pages | HTML structure, CSS styling, JavaScript dynamic effects, Event & Cookies Handling | `HTML`, `CSS`, `JavaScript` |
+| [Web Discovery Piscine](https://github.com/nabilac27/42-web_discovery_piscine) | Web development discovery program showcasing small projects and interactive web pages | HTML structure, CSS styling, JavaScript dynamic effects, Event & Cookies Handling | `HTML`, `CSS`, `JavaScript` |
 
 
