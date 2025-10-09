@@ -37,3 +37,10 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 | [ft_printf](https://github.com/nabilac27/42-ft_printf) | Custom implementation of the printf function | Variadic Functions, String Formatting, Buffer Handling | `C` |   
 | [libft](https://github.com/nabilac27/42-libft) | A custom C library that replicates standard C functions | Memory Management, Data Structures, String & List Manipulation | `C` |   
 
+## 🌐 Web Development
+
+| Project | Description | Key Concepts | Technologies |
+|---------|-------------|--------------|--------------|
+| [42 Web Discovery Piscine](https://github.com/nabilac27/42-web_discovery_piscine) | Web development discovery program showcasing small projects and interactive web pages | HTML structure, CSS styling, JavaScript dynamic effects, Event & Cookies Handling | `HTML`, `CSS`, `JavaScript` |
+
+
