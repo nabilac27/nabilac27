@@ -42,6 +42,6 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 
 | Project | Description |  Preview | Technologies |
 |---------|-------------|---------|--------------|
-| [Web Discovery](https://github.com/nabilac27/42-web_discovery_piscine) | Web development discovery program showcasing small projects and interactive web pages| [To-Do List](https://nabilac27.github.io/42-web-to_do_list/), [Profile Card](https://nabilac27.github.io/42-web-profile_card/), [Parallax](https://nabilac27.github.io/42-web-parallax/) | `HTML`, `CSS`, `JavaScript`, `DOM`, `Cookies` |
+| [Web Discovery](https://github.com/nabilac27/42-web_discovery_piscine) | Web development discovery program showcasing small projects and interactive web pages| [To-Do List](https://nabilac27.github.io/42-web-to_do_list/), [Profile Card](https://nabilac27.github.io/42-web-profile_card/), [Parallax](https://nabilac27.github.io/42-web-parallax/) | `HTML`, `CSS`, `JavaScript` |
 
 
