@@ -1,5 +1,5 @@
 
-# Hello world 👋  
+# Hello World, 👋  
 I'm Nabila, a beginner student at **42**, eager to learn programming and problem-solving. I'm working through the core curriculum to build a strong foundation in tech and gain the skills I need to succeed in the industry.
 
 
