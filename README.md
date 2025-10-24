@@ -3,27 +3,6 @@
 I'm Nabila, a beginner student at **42**, eager to learn programming and problem-solving. I'm working through the core curriculum to build a strong foundation in tech and gain the skills I need to succeed in the industry.
 
 
-##  🧠  About Me  
-- 🎓 Studying at [42](https://www.42.fr) and [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en)
-- 🖥️ Interested in **software development**
-- 🔧 Learning **C**, **algorithms**, **systems programming**, and **networking**
-
-## 🚀 Currently Working On
-
-- 🎓 **Computer Science** at Goethe Uni Frankfurt
-
-  Current Courses: *Lineare Algebra und Diskrete Strukturen, Diskrete Modellierung, Einführung in die Programmierung*  
-
-- 🖥️ **Core Curriculum at 42**
-
-  Current Projects: NetPractice (Networking), CPP00-04 (C++), Cub3D (3D Raycasting Game using C) 
-
-- 💼 **Internship / Werkstudent** Search
-  
-  Actively looking for opportunities in **Software Development**
-
-
-
 ## 🖥️ 42 Core Curriculum Projects
 
 | Project | Description | Key Concepts | Technologies |
