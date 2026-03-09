@@ -7,7 +7,7 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 
 | Rank | Project | Description | Key Concepts | Technologies |
 |------|---------|-------------|--------------|--------------|
-| 4 | CPP2 | C++ module focusing on object-oriented programming concepts | Classes, Inheritance, Polymorphism, Canonical Form | `C++` |
+| 4 | CPP | C++ module focusing on object-oriented programming concepts | Classes, Inheritance, Polymorphism, Canonical Form | `C++` |
 | 4 | NetPractice | Networking exercises focused on understanding IP addressing and subnetting | Networking, TCP/IP, Subnetting, Routing | `Networking` |
 | 3 | [philosopher](https://github.com/nabilac27/42-philosopher) | Dining Philosophers Problem simulation using threads and mutexes | Concurrency, Threads, Mutex, Deadlock | `C` |
 | 2 | [so_long](https://github.com/nabilac27/42-so_long) | A simple 2D game using the MLX library | Graphics, Event Handling, Game Loop, Memory Management | `C` |
