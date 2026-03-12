@@ -17,7 +17,7 @@ I'm Nabila, a beginner student at **42**, eager to learn programming and problem
 | 1 | [ft_printf](https://github.com/nabilac27/42-ft_printf) | Custom implementation of the printf function | Variadic Functions, String Formatting, Buffer Handling | `C` |
 | 1 | [get_next_line](https://github.com/nabilac27/42-get_next_line) | Function to read a line from a file descriptor | Static Variables, File I/O, Buffering | `C` |
 | 0 | [libft](https://github.com/nabilac27/42-libft) | A custom C library that replicates standard C functions | Memory Management, Data Structures, String & List Manipulation | `C` |
-|  | [Exams]((https://github.com/nabilac27/42-Exam) | | Algorithms, Parsing, Pipes & Processes, File Descriptors | `C` |
+|  | [Exams](https://github.com/nabilac27/42-Exam) | | Algorithms, Parsing, Pipes & Processes, File Descriptors | `C` |
 
 ## 🌐 Web Development
 
