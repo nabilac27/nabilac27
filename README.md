@@ -7,7 +7,7 @@ I'm Nabila, a beginner student at **[42](https://www.42network.org)**, eager to 
 
 | Rank | Project | Description | Key Concepts | Technologies |
 |------|---------|-------------|--------------|--------------|
-| 4 | [Cub3D](https://github.com/nabilac27/42-Cub3D) | 3D-inspired game engine that renders 3D maze from a 2D map | Raycasting, 2D→3D Projection, Texture Mapping, Graphics, Parsing, Event Handling | `C` |
+| 4 | [Cub3D](https://github.com/nabilac27/42-Cub3D) | 3D-inspired game engine that renders 3D maze from a 2D map | Raycasting, 2D→3D Projection, Graphics, Parsing, Event Handling | `C` |
 | 4 | [CPP](https://github.com/nabilac27/42-CPP00-CPP04) | C++ module focusing on object-oriented programming concepts | Classes, Inheritance, Polymorphism, Canonical Form | `C++` |
 | 4 | [NetPractice](https://github.com/nabilac27/42-NetPractice) | Networking exercises focused on understanding IP addressing and subnetting | Networking, TCP/IP, Subnetting, Routing | `Networking` |
 | 3 | [philosopher](https://github.com/nabilac27/42-philosopher) | Dining Philosophers Problem simulation using threads and mutexes | Concurrency, Threads, Mutex, Deadlock | `C` |
