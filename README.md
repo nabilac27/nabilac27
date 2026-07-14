@@ -6,7 +6,10 @@ I'm Nabila, a beginner student at **[42](https://www.42network.org)**, eager to 
 
 | Rank | Project | Description | Key Concepts | Technologies |
 |------|---------|-------------|--------------|--------------|
-| 4 | [CPP00-04](https://github.com/nabilac27/42-CPP00-CPP04) | C++ module focusing on object-oriented programming concepts | Classes, Inheritance, Polymorphism, Canonical Form | `C++` |
+| 5 | [Inception](https://github.com/nabilac27/42-Inception) | Containerized web infrastructure using Docker and Docker Compose | Docker, Virtualization, Networking, NGINX, WordPress, MariaDB | `Docker` `Linux` |
+| 5 | [ft_irc](https://github.com/nabilac27/42-ft_irc) | Internet Relay Chat (IRC) server compatible with IRC clients | Socket Programming, TCP/IP, `poll()`, IRC Protocol, Client-Server Architecture | `C++` `Networking` |
+| 5 | [CPP05-09](https://github.com/nabilac27/42-CPP05-09) | C++ modules covering exceptions, templates, STL containers, iterators, and generic programming | Exceptions, Templates, STL, Iterators, Algorithms, Generic Programming | `C++` |
+| 4 | [CPP00-04](https://github.com/nabilac27/42-CPP00-04) | C++ module focusing on object-oriented programming concepts | Classes, Inheritance, Polymorphism, Canonical Form | `C++` |
 | 4 | [NetPractice](https://github.com/nabilac27/42-NetPractice) | Networking exercises focused on understanding IP addressing and subnetting | Networking, TCP/IP, Subnetting, Routing | `Networking` |
 | 4 | [Cub3D](https://github.com/nabilac27/42-Cub3D) | 3D-inspired game engine that renders 3D maze from a 2D map | Raycasting, 2D→3D Projection, Graphics, Parsing, Event Handling | `C` |
 | 3 | [philosopher](https://github.com/nabilac27/42-philosopher) | Dining Philosophers Problem simulation using threads and mutexes | Concurrency, Threads, Mutex, Deadlock | `C` |
